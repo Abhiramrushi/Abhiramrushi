@@ -1,20 +1,4 @@
-## Hi there 👋
 
-<!--
-**Abhiramrushi/Abhiramrushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Purple Minimal Animated Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=900&height=70&lines=ABHIRAMRUSHI;AI+Developer+•+ML%2FDL+Engineer;NLP+•+Quantum+Computing;AR%2FVR+Enthusiast+•+Vibe+Coder" />
 </p>
@@ -29,8 +13,6 @@ I build intelligent systems using:
 - 🧬 Quantum Algorithms  
 - 🕶️ AR/VR  
 - 🎧 Clean Vibe Coding  
-
-I love creating futuristic ideas with a purple neon aesthetic ⚡
 
 ---
 
