@@ -1,8 +1,7 @@
-
+<!-- Purple Minimal Animated Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9B4DFF&center=true&vCenter=true&width=900&height=70&lines=ABHIRAMRUSHI;AI+Developer+•+ML%2FDL+Engineer;NLP+•+Quantum+Computing;AR%2FVR+Enthusiast+•+Vibe+Coder" />
 </p>
-
 ---
 
 ## 🟣 **About Me**
