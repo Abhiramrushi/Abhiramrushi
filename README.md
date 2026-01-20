@@ -73,13 +73,13 @@ src="https://streak-stats.demolab.com?user=ABHIRAMRUSHI&theme=highcontrast&backg
 
 ## 🔗 **Connect**
 <div align="center">
-<a href="https://github.com/ABHIRAMRUSHI"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/></a>
+
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nagulapalli-abhiramrushi-0687142b2"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/></a>
 &nbsp;&nbsp;
 <a href="https://nagulapallirushi.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40"/></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/abhiramrushi"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40"/></a>
+
 </div>
 
 
