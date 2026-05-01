@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abhiram Rushi</h1>
-<h3 align="center">🚀 AI Engineer | Building Intelligent Systems | Future JARVIS Architect</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhiramrushi/Abhiramrushi/main/banner.png" width="100%" height="300"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Building+AI+Agents+%26+Autonomous+Systems;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Quantum+AI+Explorer;Creating+Next-Gen+Intelligent+Systems" />
@@ -77,9 +78,10 @@ I design and build intelligent systems that bridge research and real-world impac
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramrushi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhiramrushi&layout=compact&theme=tokyonight" height="180"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhiramrushi&theme=tokyonight"/>
 </p>
-
 ---
 
 ## 🌐 Connect With Me
